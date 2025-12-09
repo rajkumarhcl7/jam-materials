@@ -16,8 +16,8 @@ In this lab you will learned how to:
 
 ## 2. Prerequisites
 
-- Reserve the lab environment. If you have not reserved the lab environment yet, then click [[here](https://techzone.ibm.com/collection/jam-in-a-box-for-integration-automation-cp4i/environments)]
-
+-  Setup the lab environment. If you have not setup the lab environment yet then follow the instructions  provided in the link [[here](https://github.com/IBMIntegration/jam-in-a-box-2/blob/main/README.md)]
+  
 - Create **Provider Organization** and Configure **Developer portal**. Go through [FAQs](https://ibmintegration.github.io/jam-in-a-box/faq)
 
 - Go through the presentation to get the knowledge about API connect capabilities. Cleck [here](https://ibm.box.com/s/zdvlrkbmobejvkd5hzhiqf7jur4fc6sj)
